@@ -14,7 +14,7 @@ class App extends Component {
           {/* <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
           </header> */}
-          <h1>NEW FIBONACCI CALCULATOR - VERSION 2</h1>
+          <h1>NEW FIBONACCI CALCULATOR - VERSION K8S</h1>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
           <div>
